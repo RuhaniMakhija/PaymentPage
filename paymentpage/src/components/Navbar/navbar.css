@@ -1,0 +1,43 @@
+.nav-container{
+    padding: 14px 90px;
+    display: flex;
+}
+.nav-left{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    align-items: center;
+}
+.nav-items-left{
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    
+}
+
+.flex-icon{
+    display: flex;
+    align-items: center;
+}
+
+.icon{
+    font-size: 25px;
+}
+
+.nav-right{
+    display: flex;
+    align-items: center;
+    margin-left: 567px;
+    width: 500px;
+    justify-content: space-around;
+}
+
+.btn-join{
+    background: linear-gradient(266.79deg, #0048ff 4.63%, #0096ff 100%);
+    padding: 0.75rem 2rem;
+    border-radius: 10rem;
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+    color: white;
+}
